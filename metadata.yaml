@@ -1,0 +1,34 @@
+_repo: Fairy-Circlesand-Hobgoblins_39560
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39560-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Villamaria
+    alias: Timme, Marie Jeserich
+    birthdate: 1830
+    deathdate: 1895
+    gutenberg_agent_id: '40083'
+    url: http://www.gutenberg.org/2009/agents/40083
+description: ''
+gutenberg_issued: '2012-04-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39560'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Children''s stories'
+- !lcsh 'Legends'
+- !lcsh 'Fairy tales'
+tableOfContents: 'Barbarossa''s youthful dream -- King Laurin -- The dwarf of Venice
+  -- Rhine gold: a tale of the Nibelungen -- The friendship of the dwarfs -- The flower
+  of Iceland -- The sea-fairy -- The faithful goblin -- The fallen bell -- The last
+  home of the giants.'
+title: "Fairy Circles\r\nTales and Legends of Giants, Dwarfs, Fairies, Water-Sprites,\
+  \ and Hobgoblins"
+url: http://www.gutenberg.org/ebooks/39560
